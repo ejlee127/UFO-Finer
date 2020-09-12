@@ -8,11 +8,11 @@ var datesOn = tableData.map( (ufoReport) => ufoReport.datetime)
 // Select the action tags and create event handlers
 var button = d3.select("#filter-btn");
 var form = d3.select("form");
-button.on("click", runEnter);
-form.on("submit",runEnter);
+button.on("click", showTable);
+form.on("submit",showTable);
 
 // The function to run for both events
-function runEnter() {
+function showTable() {
 
   // Prevent the page from refreshing
   d3.event.preventDefault();
