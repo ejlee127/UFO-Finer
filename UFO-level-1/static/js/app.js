@@ -53,7 +53,6 @@ function runEnter() {
   
 };
 
-
 function showDates() {
 
   var divAvailable = d3.select("#available-dates")
@@ -70,7 +69,3 @@ function showDates() {
               .classed("card-text", true)
               .text(datesOn.map( d => " "+d))
 }
-
-
-
-
