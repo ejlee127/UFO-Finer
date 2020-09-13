@@ -14,7 +14,7 @@ The codes are under 'UFO-level-1' directory. When the input value does not exist
 * Codes
     [HTML document](UFO-level-1/index.html)
     [CSS](UFO-level-1/static/css/style.css)
-    [JavaScript](UFO-level-1/stattic/js/app.js)
+    [JavaScript](UFO-level-1/static/js/app.js)
 
 * Dataset
     [UFO Sightings Data](UFO-level-1/static/js/data.js)
@@ -26,7 +26,7 @@ This web page allows a user to select a category to filter. A dropdown menu prov
 * Codes
     [HTML document](UFO-level-2/index.html)
     [CSS](UFO-level-2/static/css/style.css)
-    [JavaScript](UFO-level-2/stattic/js/app.js)
+    [JavaScript](UFO-level-2/static/js/app.js)
 
 * Dataset
     [UFO Sightings Data](UFO-level-2/static/js/data.js)
