@@ -7,7 +7,7 @@ The page was built by using JavaScript, HTML, CSS and D3.js.
 
 ## Level-1
 
-The data is filtered by the date which is given by a user. The ufo reports of the given date are displayed as a table as shown in the image(![img](UFO-level-1/images/ufofinder_web.png)).
+The data is filtered by the date which is given by a user. The ufo reports of the given date are displayed as a table as shown in the image:![img](UFO-level-1/images/ufofinder_web.png)
 
 The codes are under 'UFO-level-1' directory. When the input value does not exist in the dataset, the table does not appear, instead a card with available dates is shown to help the user([img](UFO-level-1/images/ufofinder_dates.png)).
 
